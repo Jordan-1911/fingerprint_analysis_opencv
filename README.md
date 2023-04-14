@@ -22,3 +22,4 @@
 <p>The results of this process can be seen in the figures below for comparison.</p>
 
 ![alt text](https://github.com/Jordan-1911/fingerprint_analysis_opencv/blob/master/output_image.png)
+![alt text](https://github.com/Jordan-1911/fingerprint_analysis_opencv/blob/master/output_image2.png)
